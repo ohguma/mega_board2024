@@ -141,8 +141,8 @@
 
 ## 基板作成
 
-<img src="./documents/board202406a.png" height="240px">
-<img src="./documents/board202406b.png" height="240px">
+<img src="./documents/board202406top.png">
+<img src="./documents/board202406bottom.png">
 
 + [KiCAD7](https://www.kicad.org/)で設計し、基板作成まで行った。
   + コネクタは表・裏どちらにも実装し易いよう、フットプリントで両面にシルクを入れた。
